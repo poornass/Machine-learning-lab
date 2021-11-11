@@ -1,4 +1,4 @@
-# Machine-learning-lab
+# Machine-learning-lab Labsheet 6
 21VL631  Machine Learning and Embedded Programming Lab
 Lab sheet 6
 Design and implementation of clustering algorithm
